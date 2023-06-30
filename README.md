@@ -1,6 +1,6 @@
 # TiendaDeJuegos-GameShop
 
-OKR - Objetivo: Diseñar una interfaz para realizar la venta de productos en la web.
+OKR - Objetivo: Diseñar una interfaz y un sistema para realizar la venta de juegos en una web.
 OKR - Key Results:
 ● Sistema de ventas funcional en máximo 2 meses.
 ● Interfaz con visibilidad de productos 1 mes.
